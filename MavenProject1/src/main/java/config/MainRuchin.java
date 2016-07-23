@@ -20,7 +20,7 @@ public class MainRuchin {
 				//Log.startTestCase("Selenium_Test_001");
 				
 				WebDriver driver =new ChromeDriver();
-				//ruchin
+				//ruchin agarwal
 				
 				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 				
